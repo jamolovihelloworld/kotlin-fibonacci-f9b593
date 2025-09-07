@@ -1,0 +1,1 @@
+fun main(){var a=0;var b=1;for(i in 1..10){print("$a ");val t=a;a=b;b=t+b}}
